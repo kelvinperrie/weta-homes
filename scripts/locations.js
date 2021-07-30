@@ -1,17 +1,17 @@
 var houseLocations = [
     {
         title: "Matekai Park 1",
-        description: "Behind bench",
+        description: "The house is on a large tree about 10 meters behind the bench. It is on the side of the tree facing away from the track/bench.",
         latLong: [173.9508810591352, -39.11589744342155]
     },
     {
         title: "Matekai Park 2",
         description: "Off track",
-        latLong: [173.9526304693777, -39.116986235788275]
+        latLong: [173.9522000521865, -39.11643658032288]
     },
     {
         title: "Matekai Park 3",
-        description: "Past tire swing",
+        description: "Go past the tire swing towards the stream, the house is about half way between the track and the stream on a large tree.",
         latLong: [173.95281898243277, -39.117180080727486]
     },
     {

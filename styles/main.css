@@ -18,6 +18,7 @@
         bottom: 12px;
         left: -50px;
         min-width: 280px;
+        font-family: Arial, Helvetica, sans-serif;
       }
       .ol-popup:after, .ol-popup:before {
         top: 100%;
