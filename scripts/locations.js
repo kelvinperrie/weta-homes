@@ -23,5 +23,20 @@ var houseLocations = [
         title: "Corbet Park 2",
         description: "At top at road end",
         latLong: [173.95946176859005, -39.11035698006359]
+    },
+    {
+        title: "Water Front 1",
+        description: "Close to campground",
+        latLong: [173.93892671076836, -39.118077565321336]
+    },
+    {
+        title: "Water Front 2",
+        description: "Close to waterfall",
+        latLong: [173.93681236295558, -39.11795017632435]
+    },
+    {
+        title: "Shearer Reserve 1",
+        description: "Close to waterfall",
+        latLong: [173.94810238555473, -39.116682514888495]
     }
 ];

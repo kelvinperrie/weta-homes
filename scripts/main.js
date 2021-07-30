@@ -8,7 +8,7 @@ function SetupWetahouseLocations(locations) {
     const iconStyle = new ol.style.Style({
         image: new ol.style.Icon({
             src: 'images/feature-icon.png',
-            scale: 1.5,
+            scale: 1,
         }),
         fill: new ol.style.Fill({ color: [255,0,0,1] }),
         stroke: new ol.style.Stroke({ color: [255,0,0,1] }),
