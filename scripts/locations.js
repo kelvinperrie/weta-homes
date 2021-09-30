@@ -16,27 +16,27 @@ var houseLocations = [
     },
     {
         title: "Corbet Park 1",
-        description: "At top at beach end",
-        latLong: [173.95804955769867, -39.10918079316026]
-    },
-    {
-        title: "Corbet Park 2",
         description: "At top at road end",
-        latLong: [173.95946176859005, -39.11035698006359]
+        latLong: [173.958615, -39.109225]
     },
     {
         title: "Water Front 1",
         description: "Close to campground",
-        latLong: [173.93892671076836, -39.118077565321336]
+        latLong: [173.938691, -39.118024]
     },
     {
         title: "Water Front 2",
         description: "Close to waterfall",
-        latLong: [173.93681236295558, -39.11795017632435]
+        latLong: [173.937393, -39.118098]
     },
     {
-        title: "Shearer Reserve 1",
-        description: "Close to waterfall",
-        latLong: [173.94810238555473, -39.116682514888495]
+        title: "Behind playground 1",
+        description: "Not far past the skate ramp",
+        latLong: [173.948385, -39.116783]
+    },
+    {
+        title: "Behind playground 2",
+        description: "On the path from the playground toward Telford Terrace",
+        latLong: [173.949323, -39.117986]
     }
 ];
