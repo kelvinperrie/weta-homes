@@ -16,8 +16,13 @@ var houseLocations = [
     },
     {
         title: "Corbet Park 1",
-        description: "This is on the path that goes up the hill behind Corbet Park. It's at the top of the hill, at the ocean end. It's on the farm side of the track.",
+        description: "When heading up the path on the ocean side of the hill turn right at the top (away from the look-out). It's on the farm side of the track and is visible from the track.",
         latLong: [173.958615, -39.109225]
+    },
+    {
+        title: "Corbet Park 2",
+        description: "When going up the path (on the highway side of the hill) it is almost at the top of the hill. It is on a large tree on the opposite side of the path to a sign.",
+        latLong: [173.959530, -39.110268]
     },
     {
         title: "Water Front 1",
@@ -28,6 +33,16 @@ var houseLocations = [
         title: "Water Front 2",
         description: "This is on the path behind the trees. This is at the waterfall end of the path. It is a couple of meters off the track on the ocean side. It's visible from the track.",
         latLong: [173.937393, -39.118098]
+    },
+    {
+        title: "Water Front 3",
+        description: "This is on the path to between the Oakura camp ground and Ahuahu road, on the section between the barrier and the road. It is on the opposite side of the path to the ocean and is on a tree facing the ocean. It is visible from the path.",
+        latLong: [173.931391, -39.118124]
+    },
+    {
+        title: "Water Front 4",
+        description: "This is on the path between the Oakura camp ground and Ahuahu road, around 25 meters east (the campground side) of the barrier. It is on the opposite side of the path to the ocean and is on a fence post facing the beach. It is visible from the path.",
+        latLong: [173.932359, -39.118329]
     },
     {
         title: "Behind playground 1",
